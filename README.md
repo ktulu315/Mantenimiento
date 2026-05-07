@@ -13,3 +13,10 @@ Eliminar la molesta busqueda de internet en el menú inicio de Windows 10 y Wind
 2. Pegar todo el contenido del texto.
 3. Guardar el archivo con extension .reg.
 4. Ejecutar.
+
+# 2.Reset de Red
+## Objetivo
+Resetear la configuracion de Red de datos de Windows, para eliminar errores de configuracion que generan lentidud o mal funcionamiento de la red.
+### Instrucciones
+1. Descargar el archivo y ejecutar como administrador
+2. Reiniciar el equipo
